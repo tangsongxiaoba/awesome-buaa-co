@@ -55,6 +55,7 @@
   - [Accepted0424/BUAA-CO-2024](https://github.com/Accepted0424/BUAA-CO-2024)
   - [BaconToast-pro/BUAA_CO_Project_2024](https://github.com/BaconToast-pro/BUAA_CO_Project_2024)
   - [advanceHiyan/buaa-co-2023](https://github.com/advanceHiyan/buaa-co-2023)
+  - [LajiPZ/BUAA_CO_2024](https://github.com/LajiPZ/BUAA_CO_2024)
 - **2022 级**
   - [ap0stader/BUAA_CO](https://github.com/ap0stader/BUAA_CO)
   - [Aron00123/VeriMIPS](https://github.com/Aron00123/VeriMIPS)
